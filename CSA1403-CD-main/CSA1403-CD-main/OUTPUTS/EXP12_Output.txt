@@ -1,0 +1,7 @@
+COMPILER DESIGN LAB - EXPERIMENT 12
+==========================================
+Sample Input:
+id+id*id
+
+Program Output:
+Enter expression using id, +, *, and parentheses (example: id+id*id): String accepted.

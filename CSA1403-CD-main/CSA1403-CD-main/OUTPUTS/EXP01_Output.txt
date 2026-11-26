@@ -1,0 +1,14 @@
+COMPILER DESIGN LAB - EXPERIMENT 1
+==========================================
+Sample Input:
+int total = a + 25; // calculate total
+
+Program Output:
+Enter a C-like source line (or a few lines):
+IDENTIFIER : int
+IDENTIFIER : total
+OPERATOR   : =
+IDENTIFIER : a
+OPERATOR   : +
+CONSTANT   : 25
+SPECIAL    : ;

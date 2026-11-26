@@ -1,0 +1,11 @@
+COMPILER DESIGN LAB - EXPERIMENT 10
+==========================================
+Program Output:
+Original grammar:
+S -> iEtS | iEtSeS | a
+E -> b
+
+After left factoring:
+S  -> iEtS S' | a
+S' -> eS | epsilon
+E  -> b

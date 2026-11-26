@@ -1,0 +1,11 @@
+COMPILER DESIGN LAB - EXPERIMENT 4
+==========================================
+Sample Input:
+a+b*c/d-5
+
+Program Output:
+Enter an expression:
++ : arithmetic operator
+* : arithmetic operator
+/ : arithmetic operator
+- : arithmetic operator

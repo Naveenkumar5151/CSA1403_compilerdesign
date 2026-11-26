@@ -1,0 +1,12 @@
+COMPILER DESIGN LAB - EXPERIMENT 17
+==========================================
+Program Output:
+Grammar:
+E -> E + T | T
+T -> T * F | F
+F -> ( E ) | id
+
+LEADING (FIRSTVT) sets:
+LEADING(E) = { +, (, id }
+LEADING(T) = { *, (, id }
+LEADING(F) = { (, id }

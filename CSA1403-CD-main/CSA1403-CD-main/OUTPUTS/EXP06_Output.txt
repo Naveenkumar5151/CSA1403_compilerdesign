@@ -1,0 +1,7 @@
+COMPILER DESIGN LAB - EXPERIMENT 6
+==========================================
+Sample Input:
+_count2
+
+Program Output:
+Enter an identifier: Valid identifier.

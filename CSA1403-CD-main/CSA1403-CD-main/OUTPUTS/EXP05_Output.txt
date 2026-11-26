@@ -1,0 +1,12 @@
+COMPILER DESIGN LAB - EXPERIMENT 5
+==========================================
+Sample Input:
+Hello world
+C lab	work
+
+Program Output:
+Enter text (Ctrl+Z then Enter on Windows, Ctrl+D on Linux/macOS to finish):
+Spaces: 2
+Tabs: 1
+Newline characters: 2
+Other whitespace: 0

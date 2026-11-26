@@ -1,0 +1,9 @@
+COMPILER DESIGN LAB - EXPERIMENT 15
+==========================================
+Sample Input:
+sample.txt
+
+Program Output:
+Enter file name: Characters: 56
+Words: 8
+Lines: 2

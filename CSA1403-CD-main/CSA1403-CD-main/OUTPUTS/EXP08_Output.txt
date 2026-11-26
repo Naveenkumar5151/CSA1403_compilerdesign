@@ -1,0 +1,12 @@
+COMPILER DESIGN LAB - EXPERIMENT 8
+==========================================
+Program Output:
+Grammar:
+S -> AaAb | BbBa
+A -> epsilon
+B -> epsilon
+
+FOLLOW sets:
+FOLLOW(S) = { $ }
+FOLLOW(A) = { a, b }
+FOLLOW(B) = { a, b }

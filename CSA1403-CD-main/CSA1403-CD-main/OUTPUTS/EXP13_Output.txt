@@ -1,0 +1,8 @@
+COMPILER DESIGN LAB - EXPERIMENT 13
+==========================================
+Sample Input:
+aabb
+
+Program Output:
+Grammar: S -> aSb | ab
+Enter input string: String accepted by the grammar.

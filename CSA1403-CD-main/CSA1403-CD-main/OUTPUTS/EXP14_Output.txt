@@ -1,0 +1,9 @@
+COMPILER DESIGN LAB - EXPERIMENT 14
+==========================================
+Sample Input:
+a+b*c
+
+Program Output:
+Enter arithmetic expression (single-character operands): t1 = b * c
+t2 = a + t1
+Result is stored in: t2

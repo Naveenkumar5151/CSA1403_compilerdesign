@@ -1,0 +1,12 @@
+COMPILER DESIGN LAB - EXPERIMENT 7
+==========================================
+Program Output:
+Grammar:
+S -> AaAb | BbBa
+A -> epsilon
+B -> epsilon
+
+FIRST sets:
+FIRST(A) = { epsilon }
+FIRST(B) = { epsilon }
+FIRST(S) = { a, b }

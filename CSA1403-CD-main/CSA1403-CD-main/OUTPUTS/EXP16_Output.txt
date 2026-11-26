@@ -1,0 +1,17 @@
+COMPILER DESIGN LAB - EXPERIMENT 16
+==========================================
+Sample Input:
+2
+t1 = a + b
+x = t1
+
+Program Output:
+Enter number of three-address statements:
+Enter statements such as: t1 = a + b   or   x = t1
+
+Generated pseudo-assembly:
+LOAD R0, a
+ADD R0, b
+STORE t1, R0
+LOAD R0, t1
+STORE x, R0

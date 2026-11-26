@@ -1,0 +1,9 @@
+COMPILER DESIGN LAB - EXPERIMENT 3
+==========================================
+Sample Input:
+int x = 10; /* remove this */ // and this
+
+Program Output:
+Enter source text:
+Text after removing whitespace and comments:
+intx=10;

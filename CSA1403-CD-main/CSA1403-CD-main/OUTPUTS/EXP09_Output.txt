@@ -1,0 +1,11 @@
+COMPILER DESIGN LAB - EXPERIMENT 9
+==========================================
+Program Output:
+Original grammar:
+S -> (L) | a
+L -> L , S | S
+
+After eliminating immediate left recursion:
+S  -> (L) | a
+L  -> S L'
+L' -> , S L' | epsilon

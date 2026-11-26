@@ -1,0 +1,8 @@
+COMPILER DESIGN LAB - EXPERIMENT 2
+==========================================
+Sample Input:
+/* This is a block comment */
+
+Program Output:
+Enter one line:
+It is a block comment.

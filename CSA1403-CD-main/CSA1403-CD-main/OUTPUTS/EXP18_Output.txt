@@ -1,0 +1,12 @@
+COMPILER DESIGN LAB - EXPERIMENT 18
+==========================================
+Program Output:
+Grammar:
+E -> E + T | T
+T -> T * F | F
+F -> ( E ) | id
+
+TRAILING (LASTVT) sets:
+TRAILING(E) = { +, ), id }
+TRAILING(T) = { *, ), id }
+TRAILING(F) = { ), id }
